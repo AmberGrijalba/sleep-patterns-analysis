@@ -1,0 +1,288 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,BMI Category,Heart Rate,Sleep Disorder,Systolic_BP,Diastolic_BP,Stress_Binary
+317,Female,53,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+283,Female,50,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+309,Female,52,Accountant,6.6,7,45,Overweight,72,Insomnia,130,85,ESTRESADO
+276,Female,49,Nurse,6.2,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+243,Male,44,Salesperson,6.4,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+130,Male,38,Lawyer,7.3,8,60,Normal,68,,130,85,ESTRES MODERADO
+364,Female,59,Nurse,8.2,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+226,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+126,Female,37,Nurse,7.5,8,60,Normal Weight,70,,120,80,ESTRES MODERADO
+295,Female,50,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+245,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+370,Female,59,Nurse,8.1,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+127,Male,38,Lawyer,7.3,8,60,Normal,68,,130,85,ESTRES MODERADO
+338,Female,54,Engineer,8.4,9,30,Normal,65,,125,80,ESTRES MODERADO
+58,Male,32,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+192,Male,43,Salesperson,6.4,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+300,Female,51,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+132,Male,38,Lawyer,7.3,8,60,Normal,68,,130,85,ESTRES MODERADO
+304,Female,51,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+257,Female,45,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+72,Male,33,Doctor,6.1,6,30,Normal,72,,125,80,ESTRESADO
+77,Male,33,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+237,Male,44,Salesperson,6.4,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+366,Female,59,Nurse,8.0,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+311,Female,52,Accountant,6.6,7,45,Overweight,72,Insomnia,130,85,ESTRESADO
+260,Female,45,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+91,Male,35,Engineer,7.3,8,60,Normal,65,,125,80,ESTRES MODERADO
+33,Female,31,Nurse,7.9,8,75,Normal Weight,69,,117,76,ESTRES MODERADO
+336,Female,54,Engineer,8.4,9,30,Normal,65,,125,80,ESTRES MODERADO
+207,Male,43,Engineer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+222,Male,44,Salesperson,6.4,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+68,Male,33,Doctor,6.0,6,30,Normal,72,Insomnia,125,80,ESTRESADO
+340,Female,55,Nurse,8.1,9,75,Overweight,72,Sleep Apnea,140,95,ESTRES MODERADO
+368,Female,59,Nurse,8.0,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+47,Male,31,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+369,Female,59,Nurse,8.1,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+324,Female,53,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+217,Male,43,Engineer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+193,Male,43,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+299,Female,51,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+327,Female,53,Engineer,8.3,9,30,Normal,65,,125,80,ESTRES MODERADO
+188,Male,43,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+116,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+89,Male,35,Engineer,7.3,8,60,Normal,65,,125,80,ESTRES MODERADO
+26,Male,30,Doctor,7.9,7,75,Normal,70,,120,80,ESTRES MODERADO
+322,Female,53,Engineer,8.4,9,30,Normal,65,,125,80,ESTRES MODERADO
+326,Female,53,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+250,Male,44,Salesperson,6.5,6,45,Overweight,72,,130,85,ESTRESADO
+57,Male,32,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+184,Male,42,Lawyer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+361,Female,59,Nurse,8.2,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+53,Male,32,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+291,Female,50,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+30,Male,30,Doctor,7.9,7,75,Normal,70,,120,80,ESTRES MODERADO
+359,Female,59,Nurse,8.0,9,75,Overweight,68,,140,95,ESTRES MODERADO
+310,Female,52,Accountant,6.6,7,45,Overweight,72,Insomnia,130,85,ESTRESADO
+269,Female,49,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+12,Male,29,Doctor,7.8,7,75,Normal,70,,120,80,ESTRES MODERADO
+37,Male,31,Doctor,6.1,6,30,Normal,72,,125,80,ESTRESADO
+239,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+87,Male,35,Engineer,7.2,8,60,Normal,65,,125,80,ESTRES MODERADO
+342,Female,56,Doctor,8.2,9,90,Normal Weight,65,,118,75,ESTRES MODERADO
+263,Female,45,Teacher,6.6,7,45,Overweight,65,,135,90,ESTRES MODERADO
+176,Male,41,Lawyer,7.6,8,90,Normal,70,,130,85,ESTRES MODERADO
+35,Male,31,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+158,Male,39,Lawyer,7.2,8,60,Normal,68,,130,85,ESTRES MODERADO
+162,Female,40,Accountant,7.2,8,55,Normal Weight,73,,119,77,ESTRES MODERADO
+93,Male,35,Software Engineer,7.5,8,60,Normal Weight,70,,120,80,ESTRES MODERADO
+212,Male,43,Engineer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+164,Male,40,Lawyer,7.9,8,90,Normal,68,,130,85,ESTRES MODERADO
+358,Female,58,Nurse,8.0,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+266,Female,48,Nurse,5.9,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+20,Male,30,Doctor,7.6,7,75,Normal,70,,120,80,ESTRES MODERADO
+349,Female,57,Nurse,8.2,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+60,Male,32,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+141,Female,38,Accountant,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+335,Female,54,Engineer,8.4,9,30,Normal,65,,125,80,ESTRES MODERADO
+234,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+131,Female,38,Accountant,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+25,Male,30,Doctor,7.8,7,75,Normal,70,,120,80,ESTRES MODERADO
+157,Male,39,Lawyer,7.2,8,60,Normal,68,,130,85,ESTRES MODERADO
+24,Male,30,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+136,Male,38,Lawyer,7.3,8,60,Normal,68,,130,85,ESTRES MODERADO
+211,Male,43,Engineer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+122,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+303,Female,51,Nurse,7.1,7,55,Normal Weight,72,,125,82,ESTRES MODERADO
+313,Female,52,Engineer,8.4,9,30,Normal,65,,125,80,ESTRES MODERADO
+59,Male,32,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+144,Female,38,Accountant,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+238,Female,44,Teacher,6.5,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+298,Female,50,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+252,Female,45,Teacher,6.8,7,30,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+61,Male,32,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+273,Female,49,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+319,Female,53,Engineer,8.4,9,30,Normal,65,,125,80,ESTRES MODERADO
+143,Female,38,Accountant,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+262,Female,45,Teacher,6.6,7,45,Overweight,65,,135,90,ESTRES MODERADO
+210,Male,43,Engineer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+73,Male,33,Doctor,6.1,6,30,Normal,72,,125,80,ESTRESADO
+293,Female,50,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+240,Male,44,Salesperson,6.4,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+182,Male,42,Lawyer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+125,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+281,Female,50,Nurse,6.0,6,90,Overweight,75,,140,95,ESTRESADO
+183,Male,42,Lawyer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+191,Female,43,Teacher,6.7,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+235,Female,44,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+79,Male,33,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+354,Female,58,Nurse,8.0,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+174,Male,41,Lawyer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+205,Male,43,Engineer,7.6,8,75,Overweight,68,,122,80,ESTRES MODERADO
+18,Male,29,Doctor,6.0,6,30,Normal,70,Sleep Apnea,120,80,ESTRESADO
+74,Male,33,Doctor,6.1,6,30,Normal,72,,125,80,ESTRESADO
+325,Female,53,Engineer,8.3,9,30,Normal,65,,125,80,ESTRES MODERADO
+83,Male,35,Teacher,6.7,7,40,Overweight,70,,128,84,ESTRES MODERADO
+120,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+63,Male,32,Doctor,6.2,6,30,Normal,72,,125,80,ESTRESADO
+274,Female,49,Nurse,6.2,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+196,Male,43,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+169,Male,41,Lawyer,7.1,7,55,Overweight,72,,125,82,ESTRES MODERADO
+119,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+104,Male,36,Teacher,6.6,5,35,Overweight,74,Sleep Apnea,129,84,ESTRESADO
+279,Female,50,Nurse,6.1,6,90,Overweight,75,Insomnia,140,95,ESTRESADO
+270,Female,49,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+49,Male,31,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+200,Male,43,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+71,Male,33,Doctor,6.1,6,30,Normal,72,,125,80,ESTRESADO
+251,Female,45,Teacher,6.8,7,30,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+292,Female,50,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+160,Male,39,Lawyer,7.2,8,60,Normal,68,,130,85,ESTRES MODERADO
+9,Male,29,Doctor,7.8,7,75,Normal,70,,120,80,ESTRES MODERADO
+356,Female,58,Nurse,8.0,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+11,Male,29,Doctor,6.1,6,30,Normal,70,,120,80,ESTRESADO
+75,Male,33,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+268,Female,49,Nurse,6.2,6,90,Overweight,75,,140,95,ESTRESADO
+208,Male,43,Engineer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+372,Female,59,Nurse,8.1,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+344,Female,57,Nurse,8.1,9,75,Overweight,68,,140,95,ESTRES MODERADO
+168,Male,41,Lawyer,7.1,7,55,Overweight,72,,125,82,ESTRES MODERADO
+42,Male,31,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+111,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+202,Male,43,Engineer,7.8,8,90,Normal,70,Insomnia,130,85,ESTRES MODERADO
+159,Male,39,Lawyer,7.2,8,60,Normal,68,,130,85,ESTRES MODERADO
+302,Female,51,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+107,Female,37,Nurse,6.1,6,42,Overweight,77,,126,83,ESTRES MODERADO
+203,Male,43,Engineer,7.8,8,90,Normal,70,Insomnia,130,85,ESTRES MODERADO
+175,Male,41,Lawyer,7.6,8,90,Normal,70,,130,85,ESTRES MODERADO
+328,Female,53,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+363,Female,59,Nurse,8.2,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+352,Female,57,Nurse,8.1,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+178,Male,42,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+198,Male,43,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+282,Female,50,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+84,Male,35,Teacher,6.7,7,40,Overweight,70,,128,84,ESTRES MODERADO
+112,Male,37,Lawyer,7.4,8,60,Normal,68,,130,85,ESTRES MODERADO
+209,Male,43,Engineer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+21,Male,30,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+101,Female,36,Teacher,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+114,Male,37,Lawyer,7.4,8,60,Normal,68,,130,85,ESTRES MODERADO
+181,Male,42,Lawyer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+133,Male,38,Lawyer,7.3,8,60,Normal,68,,130,85,ESTRES MODERADO
+154,Male,39,Lawyer,7.2,8,60,Normal,68,,130,85,ESTRES MODERADO
+294,Female,50,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+32,Female,30,Nurse,6.4,5,35,Normal Weight,78,Insomnia,130,86,ESTRESADO
+15,Male,29,Doctor,6.0,6,30,Normal,70,,120,80,ESTRESADO
+52,Male,32,Engineer,7.5,8,45,Normal,70,,120,80,ESTRES MODERADO
+307,Female,52,Accountant,6.5,7,45,Overweight,72,Insomnia,130,85,ESTRESADO
+36,Male,31,Doctor,6.1,6,30,Normal,72,,125,80,ESTRESADO
+256,Female,45,Teacher,6.5,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+362,Female,59,Nurse,8.2,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+55,Male,32,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+296,Female,50,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+166,Male,41,Lawyer,7.6,8,90,Normal,70,Insomnia,130,85,ESTRES MODERADO
+142,Male,38,Lawyer,7.1,8,60,Normal,68,,130,85,ESTRES MODERADO
+66,Male,32,Doctor,6.2,6,30,Normal,72,,125,80,ESTRESADO
+255,Female,45,Teacher,6.5,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+62,Male,32,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+348,Female,57,Nurse,8.2,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+14,Male,29,Doctor,6.0,6,30,Normal,70,,120,80,ESTRESADO
+242,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+236,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+50,Male,31,Doctor,7.7,7,75,Normal,70,Sleep Apnea,120,80,ESTRES MODERADO
+223,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+331,Female,53,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+195,Male,43,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+218,Male,43,Engineer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+173,Male,41,Lawyer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+86,Female,35,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+39,Male,31,Doctor,7.6,7,75,Normal,70,,120,80,ESTRES MODERADO
+163,Female,40,Accountant,7.2,8,55,Normal Weight,73,,119,77,ESTRES MODERADO
+28,Male,30,Doctor,7.9,7,75,Normal,70,,120,80,ESTRES MODERADO
+229,Female,44,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+287,Female,50,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+289,Female,50,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+51,Male,32,Engineer,7.5,8,45,Normal,70,,120,80,ESTRES MODERADO
+280,Female,50,Engineer,8.3,9,30,Normal,65,,125,80,ESTRES MODERADO
+149,Female,39,Lawyer,6.9,7,50,Normal Weight,75,,128,85,ESTRES MODERADO
+145,Male,38,Lawyer,7.1,8,60,Normal,68,Sleep Apnea,130,85,ESTRES MODERADO
+140,Male,38,Lawyer,7.1,8,60,Normal,68,,130,85,ESTRES MODERADO
+45,Male,31,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+54,Male,32,Doctor,7.6,7,75,Normal,70,,120,80,ESTRES MODERADO
+137,Female,38,Accountant,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+247,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+108,Male,37,Engineer,7.8,8,70,Normal Weight,68,,120,80,ESTRES MODERADO
+261,Female,45,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+171,Male,41,Lawyer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+31,Female,30,Nurse,6.4,5,35,Normal Weight,78,Sleep Apnea,130,86,ESTRESADO
+161,Male,39,Lawyer,7.2,8,60,Normal,68,,130,85,ESTRES MODERADO
+129,Male,38,Lawyer,7.3,8,60,Normal,68,,130,85,ESTRES MODERADO
+90,Male,35,Engineer,7.3,8,60,Normal,65,,125,80,ESTRES MODERADO
+27,Male,30,Doctor,7.8,7,75,Normal,70,,120,80,ESTRES MODERADO
+138,Male,38,Lawyer,7.1,8,60,Normal,68,,130,85,ESTRES MODERADO
+272,Female,49,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+80,Male,33,Doctor,6.0,6,30,Normal,72,,125,80,ESTRESADO
+301,Female,51,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+13,Male,29,Doctor,6.1,6,30,Normal,70,,120,80,ESTRESADO
+213,Male,43,Engineer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+351,Female,57,Nurse,8.1,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+117,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+128,Female,38,Accountant,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+215,Male,43,Engineer,7.8,8,90,Normal,70,,130,85,ESTRES MODERADO
+258,Female,45,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+106,Male,36,Teacher,6.6,5,35,Overweight,74,Insomnia,129,84,ESTRESADO
+249,Male,44,Salesperson,6.4,6,45,Overweight,72,,130,85,ESTRESADO
+177,Male,41,Lawyer,7.6,8,90,Normal,70,,130,85,ESTRES MODERADO
+339,Female,54,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+10,Male,29,Doctor,7.8,7,75,Normal,70,,120,80,ESTRES MODERADO
+343,Female,56,Doctor,8.2,9,90,Normal Weight,65,,118,75,ESTRES MODERADO
+96,Female,36,Accountant,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+115,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+253,Female,45,Teacher,6.5,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+124,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+201,Male,43,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+46,Male,31,Doctor,7.8,7,75,Normal,70,,120,80,ESTRES MODERADO
+373,Female,59,Nurse,8.1,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+345,Female,57,Nurse,8.2,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+123,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+225,Female,44,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+246,Female,44,Teacher,6.5,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+228,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+219,Male,43,Engineer,7.8,8,90,Normal,70,Sleep Apnea,130,85,ESTRES MODERADO
+167,Male,41,Engineer,7.3,8,70,Normal Weight,72,,121,79,ESTRES MODERADO
+153,Male,39,Lawyer,7.2,8,60,Normal,68,,130,85,ESTRES MODERADO
+204,Male,43,Engineer,6.9,6,47,Normal Weight,69,,117,76,ESTRESADO
+206,Male,43,Engineer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+23,Male,30,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+194,Male,43,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+323,Female,53,Engineer,8.4,9,30,Normal,65,,125,80,ESTRES MODERADO
+113,Female,37,Accountant,7.2,8,60,Normal,68,,115,75,ESTRES MODERADO
+321,Female,53,Engineer,8.5,9,30,Normal,65,,125,80,ESTRES MODERADO
+220,Male,43,Salesperson,6.5,6,45,Overweight,72,Sleep Apnea,130,85,ESTRESADO
+22,Male,30,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+70,Female,33,Scientist,6.2,6,50,Overweight,76,,128,85,ESTRES MODERADO
+189,Female,43,Teacher,6.7,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+308,Female,52,Accountant,6.5,7,45,Overweight,72,Insomnia,130,85,ESTRESADO
+197,Male,43,Salesperson,6.5,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+88,Male,35,Engineer,7.2,8,60,Normal,65,,125,80,ESTRES MODERADO
+244,Female,44,Teacher,6.5,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+105,Female,36,Teacher,7.2,8,60,Normal,68,Sleep Apnea,115,75,ESTRES MODERADO
+150,Female,39,Accountant,8.0,9,80,Normal Weight,67,,115,78,ESTRES MODERADO
+353,Female,58,Nurse,8.0,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+172,Male,41,Lawyer,7.7,8,90,Normal,70,,130,85,ESTRES MODERADO
+221,Female,44,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+248,Male,44,Engineer,6.8,7,45,Overweight,78,Insomnia,130,85,ESTRESADO
+48,Male,31,Doctor,7.8,7,75,Normal,70,,120,80,ESTRES MODERADO
+187,Female,43,Teacher,6.7,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+109,Male,37,Engineer,7.8,8,70,Normal Weight,68,,120,80,ESTRES MODERADO
+232,Male,44,Salesperson,6.3,6,45,Overweight,72,Insomnia,130,85,ESTRESADO
+44,Male,31,Doctor,7.8,7,75,Normal,70,,120,80,ESTRES MODERADO
+347,Female,57,Nurse,8.2,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+38,Male,31,Doctor,7.6,7,75,Normal,70,,120,80,ESTRES MODERADO
+365,Female,59,Nurse,8.0,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+350,Female,57,Nurse,8.1,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+284,Female,50,Nurse,6.0,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+98,Female,36,Accountant,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+100,Female,36,Teacher,7.1,8,60,Normal,68,,115,75,ESTRES MODERADO
+241,Female,44,Teacher,6.5,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+64,Male,32,Doctor,6.2,6,30,Normal,72,,125,80,ESTRESADO
+85,Male,35,Software Engineer,7.5,8,60,Normal Weight,70,,120,80,ESTRES MODERADO
+271,Female,49,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+43,Male,31,Doctor,7.7,7,75,Normal,70,,120,80,ESTRES MODERADO
+67,Male,32,Accountant,7.2,8,50,Normal Weight,68,,118,76,ESTRES MODERADO
+231,Female,44,Teacher,6.6,7,45,Overweight,65,Insomnia,135,90,ESTRES MODERADO
+1,Male,27,Software Engineer,6.1,6,42,Overweight,77,,126,83,ESTRES MODERADO
+297,Female,50,Nurse,6.1,6,90,Overweight,75,Sleep Apnea,140,95,ESTRESADO
+357,Female,58,Nurse,8.0,9,75,Overweight,68,Sleep Apnea,140,95,ESTRES MODERADO
+320,Female,53,Engineer,8.4,9,30,Normal,65,,125,80,ESTRES MODERADO
